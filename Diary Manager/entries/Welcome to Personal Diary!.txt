@@ -1,0 +1,5 @@
+Hello! This is an example entry to help you get started.
+1. To create your own entry: Type a title in the 'Title' box and your content inthe 'Content' box. Then click 'Create Entry'.
+2. To read an entry: Click on its titlefrom the list below and then click 'Read Entry'.
+3. To delete an entry: Click on its title from the list below and then click 'Delete Entry'.
+Enjoy journaling your thoughts and experiences!
